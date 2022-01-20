@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My day job is is all in private repos, but here you will find me working on tech for enjoyment!!
+
+![ezgif-7-c2508e0427](https://user-images.githubusercontent.com/444888/150290669-217bdba2-725d-448a-936d-070e0b944ff2.gif)
+
 <!--
 **p5150j/p5150j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
